@@ -2,9 +2,9 @@
 Secure Cloud Based Genetic Disease Detection Using Homomorphic Encryption Algorithm
 
 
-Requirements:
+Requirements:</br>
 Microsoft SEAL Library</br>
-OpenSSL
-Cmake
+OpenSSL</br>
+Cmake</br>
 
 Please check PDF for more details
